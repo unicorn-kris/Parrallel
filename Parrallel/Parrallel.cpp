@@ -68,8 +68,8 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 	second();
-	fourth();
-	//six();
+	//fourth();
+	six();
 }
 
 

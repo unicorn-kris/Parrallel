@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31829.152
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parallel", "Parrallel\Parrallel.vcxproj", "{1C29D52F-E01B-4AB5-AEAE-E821495BD48C}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parallel4", "Parallel4\Parallel4.vcxproj", "{3B035BAB-3575-4A73-9B98-B2FAB30BC9DA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{D995A5B6-9EB7-401A-8562-7C5FEA7EB3DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2", "2", "{F538F6FA-2F42-49CE-8CB4-CA16C1A785CB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parr2Lab", "Parr2Lab\Parr2Lab.vcxproj", "{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,14 @@ Global
 		{3B035BAB-3575-4A73-9B98-B2FAB30BC9DA}.Release|x64.Build.0 = Release|x64
 		{3B035BAB-3575-4A73-9B98-B2FAB30BC9DA}.Release|x86.ActiveCfg = Release|Win32
 		{3B035BAB-3575-4A73-9B98-B2FAB30BC9DA}.Release|x86.Build.0 = Release|Win32
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Debug|x64.ActiveCfg = Debug|x64
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Debug|x64.Build.0 = Debug|x64
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Debug|x86.Build.0 = Debug|Win32
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Release|x64.ActiveCfg = Release|x64
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Release|x64.Build.0 = Release|x64
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Release|x86.ActiveCfg = Release|Win32
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +74,7 @@ Global
 		{19061ABC-11D0-4D70-9142-65DA7DD38D48} = {D995A5B6-9EB7-401A-8562-7C5FEA7EB3DA}
 		{F39FB9B2-B3F6-484D-B42C-FC41F45C37E8} = {D995A5B6-9EB7-401A-8562-7C5FEA7EB3DA}
 		{3B035BAB-3575-4A73-9B98-B2FAB30BC9DA} = {D995A5B6-9EB7-401A-8562-7C5FEA7EB3DA}
+		{FDCF0DB5-84D7-4793-AD58-797E6FFAE4A1} = {F538F6FA-2F42-49CE-8CB4-CA16C1A785CB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C9DC5A9F-6765-4710-9298-42F5310E101B}
